@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: governance-policy-framework-addon-dfsa
     app.kubernetes.io/part-of: governance-policy-framework-addon
-  name: governance-policy-framewobuxh
+  name: governance-policy-framewo3me2
 spec:
   port:
     targetPort: 8080
