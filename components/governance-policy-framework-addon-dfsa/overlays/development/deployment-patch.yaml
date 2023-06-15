@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/crt-redhat-acm-tenant/governance-policy-framework-addon/governance-policy-framework-addon-dfsa@sha256:c9720207f0ee06fd36a3caeb9e27655e628bf30b3cf9c375e2eceebc873926b7
+      - image: quay.io/redhat-user-workloads/crt-redhat-acm-tenant/governance-policy-framework-addon/governance-policy-framework-addon-dfsa@sha256:630c3a0e9445cd8ed61ff4b3f885de044abd2ce99a8ff56bc36d7f8036423d37
         name: container-image
         resources: {}
 status: {}
