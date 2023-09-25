@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: governance-policy-framework-addon-dfsa
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/crt-redhat-acm-tenant/governance-policy-framework-addon/governance-policy-framework-addon-dfsa@sha256:ec25a664c46e305edf37f6eaadc865eee33997d0ba7f84e6094f65910c101a5b
+      - image: quay.io/redhat-user-workloads/crt-redhat-acm-tenant/governance-policy-framework-addon/governance-policy-framework-addon-dfsa@sha256:0f0999d3b7589886a82d2233f1ca677ee38b0d3c6ca8925ff276ae572fb6b859
         imagePullPolicy: Always
         name: container-image
         ports:
